@@ -68,7 +68,11 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/EliezerGarbin/ChessSystem.git
 
+# Go into the repository
 cd ChessSystem
+
+# Run
+java application/program
 
 ```
 
